@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(241, 243, 151);
+}
+.ancho{
+    width: 800px;
+    padding: 20px;
+}
+.bordes{
+    margin: 10px;
+    border: 5px solid grey;
+    padding: 5px;
+
+}
+.button:hover{
+    background-color: chartreuse;
+    color: black;
+}
